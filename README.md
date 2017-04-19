@@ -1,9 +1,14 @@
-# api documentation for  [nodemailer-smtp-transport (v2.7.2)](http://github.com/andris9/nodemailer-smtp-transport)  [![npm package](https://img.shields.io/npm/v/npmdoc-nodemailer-smtp-transport.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nodemailer-smtp-transport) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nodemailer-smtp-transport.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nodemailer-smtp-transport)
+# npmdoc-nodemailer-smtp-transport
+
+#### api documentation for  [nodemailer-smtp-transport (v2.7.4)](http://github.com/andris9/nodemailer-smtp-transport)  [![npm package](https://img.shields.io/npm/v/npmdoc-nodemailer-smtp-transport.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nodemailer-smtp-transport) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nodemailer-smtp-transport.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nodemailer-smtp-transport)
+
 #### SMTP transport for Nodemailer
 
-[![NPM](https://nodei.co/npm/nodemailer-smtp-transport.png?downloads=true)](https://www.npmjs.com/package/nodemailer-smtp-transport)
+[![NPM](https://nodei.co/npm/nodemailer-smtp-transport.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodemailer-smtp-transport)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-nodemailer-smtp-transport/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-nodemailer-smtp-transport_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nodemailer-smtp-transport/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-nodemailer-smtp-transport/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-nodemailer-smtp-transport/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-nodemailer-smtp-transport/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nodemailer-smtp-transport/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-nodemailer-smtp-transport/build/screenCapture.npmPackageListing.svg)
 
@@ -39,10 +44,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "03d71c76314f14ac7dbc7bf033a6a6d16d67fb77",
-        "tarball": "https://registry.npmjs.org/nodemailer-smtp-transport/-/nodemailer-smtp-transport-2.7.2.tgz"
+        "shasum": "0d89af019a144a480fd8ecc99997d9f838f13685",
+        "tarball": "https://registry.npmjs.org/nodemailer-smtp-transport/-/nodemailer-smtp-transport-2.7.4.tgz"
     },
-    "gitHead": "42cdd72d73b339718bc2f4754f928e5dda2afd49",
+    "gitHead": "d854aa0e4e7b22cd921ae3e4e04ab7b6e02761e6",
     "homepage": "http://github.com/andris9/nodemailer-smtp-transport",
     "keywords": [
         "SMTP",
@@ -52,13 +57,11 @@
     "main": "lib/smtp-transport.js",
     "maintainers": [
         {
-            "name": "andris",
-            "email": "andris@node.ee"
+            "name": "andris"
         }
     ],
     "name": "nodemailer-smtp-transport",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/andris9/nodemailer-smtp-transport.git"
@@ -66,19 +69,9 @@
     "scripts": {
         "test": "grunt mochaTest"
     },
-    "version": "2.7.2"
+    "version": "2.7.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module nodemailer-smtp-transport](#apidoc.module.nodemailer-smtp-transport)
-
-
-
-# <a name="apidoc.module.nodemailer-smtp-transport"></a>[module nodemailer-smtp-transport](#apidoc.module.nodemailer-smtp-transport)
 
 
 
